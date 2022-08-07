@@ -15,5 +15,6 @@ public class App
         System.out.println( "added line again" );
         System.out.println( "Checking" );
         System.out.println( "added master line" );
+        System.out.println( "Sample" );
     }
 }
