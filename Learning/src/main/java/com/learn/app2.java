@@ -5,7 +5,6 @@ public class app2 {
     {
 
         System.out.println( "app2" );
-        System.out.println( "Sample app2" );
 
     }
 }
