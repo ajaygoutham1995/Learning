@@ -5,6 +5,7 @@ public class app2 {
     {
 
         System.out.println( "app2" );
+        System.out.println( "this i will remove" );
 
     }
 }
